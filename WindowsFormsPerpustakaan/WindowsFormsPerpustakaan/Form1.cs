@@ -71,10 +71,5 @@ namespace WindowsFormsPerpustakaan
             this.tabPagePengembalian.Controls.Add(frmPengembalian);
             frmPengembalian.Show();
         }
-
-        private void labelHeader_Click(object sender, EventArgs e)
-        {
-
-        }
     }
 }

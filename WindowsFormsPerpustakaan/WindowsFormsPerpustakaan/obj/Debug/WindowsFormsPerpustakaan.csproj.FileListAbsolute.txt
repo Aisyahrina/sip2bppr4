@@ -1,0 +1,15 @@
+E:\Kuliah\Pemrograman Visual\WindowsFormsPerpustakaan\WindowsFormsPerpustakaan\bin\Debug\WindowsFormsPerpustakaan.exe.config
+E:\Kuliah\Pemrograman Visual\WindowsFormsPerpustakaan\WindowsFormsPerpustakaan\bin\Debug\WindowsFormsPerpustakaan.exe
+E:\Kuliah\Pemrograman Visual\WindowsFormsPerpustakaan\WindowsFormsPerpustakaan\bin\Debug\WindowsFormsPerpustakaan.pdb
+E:\Kuliah\Pemrograman Visual\WindowsFormsPerpustakaan\WindowsFormsPerpustakaan\obj\Debug\WindowsFormsPerpustakaan.csproj.AssemblyReference.cache
+E:\Kuliah\Pemrograman Visual\WindowsFormsPerpustakaan\WindowsFormsPerpustakaan\obj\Debug\WindowsFormsPerpustakaan.Form1.resources
+E:\Kuliah\Pemrograman Visual\WindowsFormsPerpustakaan\WindowsFormsPerpustakaan\obj\Debug\WindowsFormsPerpustakaan.FormDashboard.resources
+E:\Kuliah\Pemrograman Visual\WindowsFormsPerpustakaan\WindowsFormsPerpustakaan\obj\Debug\WindowsFormsPerpustakaan.Properties.Resources.resources
+E:\Kuliah\Pemrograman Visual\WindowsFormsPerpustakaan\WindowsFormsPerpustakaan\obj\Debug\WindowsFormsPerpustakaan.csproj.GenerateResource.cache
+E:\Kuliah\Pemrograman Visual\WindowsFormsPerpustakaan\WindowsFormsPerpustakaan\obj\Debug\WindowsFormsPerpustakaan.csproj.CoreCompileInputs.cache
+E:\Kuliah\Pemrograman Visual\WindowsFormsPerpustakaan\WindowsFormsPerpustakaan\obj\Debug\WindowsFormsPerpustakaan.exe
+E:\Kuliah\Pemrograman Visual\WindowsFormsPerpustakaan\WindowsFormsPerpustakaan\obj\Debug\WindowsFormsPerpustakaan.pdb
+E:\Kuliah\Pemrograman Visual\WindowsFormsPerpustakaan\WindowsFormsPerpustakaan\obj\Debug\WindowsFormsPerpustakaan.FormKelolaAnggota.resources
+E:\Kuliah\Pemrograman Visual\WindowsFormsPerpustakaan\WindowsFormsPerpustakaan\obj\Debug\WindowsFormsPerpustakaan.FormKelolaBuku.resources
+E:\Kuliah\Pemrograman Visual\WindowsFormsPerpustakaan\WindowsFormsPerpustakaan\obj\Debug\WindowsFormsPerpustakaan.FormPeminjaman.resources
+E:\Kuliah\Pemrograman Visual\WindowsFormsPerpustakaan\WindowsFormsPerpustakaan\obj\Debug\WindowsFormsPerpustakaan.FormPengembalian.resources

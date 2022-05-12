@@ -45,21 +45,18 @@ namespace WindowsFormsPerpustakaan
             this.labelHeader.AutoSize = true;
             this.labelHeader.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Bold);
             this.labelHeader.ForeColor = System.Drawing.SystemColors.ControlLightLight;
-            this.labelHeader.Location = new System.Drawing.Point(21, 15);
-            this.labelHeader.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.labelHeader.Location = new System.Drawing.Point(16, 12);
             this.labelHeader.Name = "labelHeader";
-            this.labelHeader.Size = new System.Drawing.Size(1047, 29);
+            this.labelHeader.Size = new System.Drawing.Size(835, 24);
             this.labelHeader.TabIndex = 0;
             this.labelHeader.Text = "Sistem Informasi Peminjaman dan Pengembalian Buku Perpustakaan SMA 13 Kota Jambi";
-            this.labelHeader.Click += new System.EventHandler(this.labelHeader_Click);
             // 
             // tabPagePengembalian
             // 
-            this.tabPagePengembalian.Location = new System.Drawing.Point(4, 26);
-            this.tabPagePengembalian.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.tabPagePengembalian.Location = new System.Drawing.Point(4, 22);
             this.tabPagePengembalian.Name = "tabPagePengembalian";
-            this.tabPagePengembalian.Padding = new System.Windows.Forms.Padding(4, 4, 4, 4);
-            this.tabPagePengembalian.Size = new System.Drawing.Size(1203, 545);
+            this.tabPagePengembalian.Padding = new System.Windows.Forms.Padding(3);
+            this.tabPagePengembalian.Size = new System.Drawing.Size(900, 441);
             this.tabPagePengembalian.TabIndex = 4;
             this.tabPagePengembalian.Text = "Pengembalian";
             this.tabPagePengembalian.UseVisualStyleBackColor = true;
@@ -67,11 +64,10 @@ namespace WindowsFormsPerpustakaan
             // 
             // tabPagePeminjaman
             // 
-            this.tabPagePeminjaman.Location = new System.Drawing.Point(4, 26);
-            this.tabPagePeminjaman.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.tabPagePeminjaman.Location = new System.Drawing.Point(4, 22);
             this.tabPagePeminjaman.Name = "tabPagePeminjaman";
-            this.tabPagePeminjaman.Padding = new System.Windows.Forms.Padding(4, 4, 4, 4);
-            this.tabPagePeminjaman.Size = new System.Drawing.Size(1203, 545);
+            this.tabPagePeminjaman.Padding = new System.Windows.Forms.Padding(3);
+            this.tabPagePeminjaman.Size = new System.Drawing.Size(900, 441);
             this.tabPagePeminjaman.TabIndex = 3;
             this.tabPagePeminjaman.Text = "Peminjaman";
             this.tabPagePeminjaman.UseVisualStyleBackColor = true;
@@ -79,11 +75,10 @@ namespace WindowsFormsPerpustakaan
             // 
             // tabPageBuku
             // 
-            this.tabPageBuku.Location = new System.Drawing.Point(4, 26);
-            this.tabPageBuku.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.tabPageBuku.Location = new System.Drawing.Point(4, 22);
             this.tabPageBuku.Name = "tabPageBuku";
-            this.tabPageBuku.Padding = new System.Windows.Forms.Padding(4, 4, 4, 4);
-            this.tabPageBuku.Size = new System.Drawing.Size(1203, 545);
+            this.tabPageBuku.Padding = new System.Windows.Forms.Padding(3);
+            this.tabPageBuku.Size = new System.Drawing.Size(900, 441);
             this.tabPageBuku.TabIndex = 2;
             this.tabPageBuku.Text = "Kelola Buku";
             this.tabPageBuku.UseVisualStyleBackColor = true;
@@ -91,11 +86,10 @@ namespace WindowsFormsPerpustakaan
             // 
             // tabAnggota
             // 
-            this.tabAnggota.Location = new System.Drawing.Point(4, 26);
-            this.tabAnggota.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.tabAnggota.Location = new System.Drawing.Point(4, 22);
             this.tabAnggota.Name = "tabAnggota";
-            this.tabAnggota.Padding = new System.Windows.Forms.Padding(4, 4, 4, 4);
-            this.tabAnggota.Size = new System.Drawing.Size(1203, 545);
+            this.tabAnggota.Padding = new System.Windows.Forms.Padding(3);
+            this.tabAnggota.Size = new System.Drawing.Size(900, 441);
             this.tabAnggota.TabIndex = 1;
             this.tabAnggota.Text = "Kelola Anggota";
             this.tabAnggota.UseVisualStyleBackColor = true;
@@ -104,11 +98,10 @@ namespace WindowsFormsPerpustakaan
             // panelContent
             // 
             this.panelContent.ForeColor = System.Drawing.SystemColors.ControlLight;
-            this.panelContent.Location = new System.Drawing.Point(4, 26);
-            this.panelContent.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.panelContent.Location = new System.Drawing.Point(4, 22);
             this.panelContent.Name = "panelContent";
-            this.panelContent.Padding = new System.Windows.Forms.Padding(4, 4, 4, 4);
-            this.panelContent.Size = new System.Drawing.Size(1203, 545);
+            this.panelContent.Padding = new System.Windows.Forms.Padding(3);
+            this.panelContent.Size = new System.Drawing.Size(900, 441);
             this.panelContent.TabIndex = 0;
             this.panelContent.Text = "Dashboard";
             this.panelContent.UseVisualStyleBackColor = true;
@@ -122,36 +115,33 @@ namespace WindowsFormsPerpustakaan
             this.tabControlAnggota.Controls.Add(this.tabPagePeminjaman);
             this.tabControlAnggota.Controls.Add(this.tabPagePengembalian);
             this.tabControlAnggota.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
-            this.tabControlAnggota.Location = new System.Drawing.Point(31, 52);
-            this.tabControlAnggota.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.tabControlAnggota.Location = new System.Drawing.Point(23, 42);
             this.tabControlAnggota.Name = "tabControlAnggota";
             this.tabControlAnggota.SelectedIndex = 0;
-            this.tabControlAnggota.Size = new System.Drawing.Size(1211, 575);
+            this.tabControlAnggota.Size = new System.Drawing.Size(908, 467);
             this.tabControlAnggota.TabIndex = 1;
             // 
             // buttonLogout
             // 
             this.buttonLogout.BackColor = System.Drawing.Color.LightGray;
             this.buttonLogout.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.buttonLogout.Location = new System.Drawing.Point(1169, 44);
-            this.buttonLogout.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.buttonLogout.Location = new System.Drawing.Point(877, 36);
             this.buttonLogout.Name = "buttonLogout";
-            this.buttonLogout.Size = new System.Drawing.Size(67, 28);
+            this.buttonLogout.Size = new System.Drawing.Size(50, 23);
             this.buttonLogout.TabIndex = 0;
             this.buttonLogout.Text = "Logout";
             this.buttonLogout.UseVisualStyleBackColor = false;
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.Highlight;
-            this.ClientSize = new System.Drawing.Size(1272, 656);
+            this.ClientSize = new System.Drawing.Size(954, 533);
             this.Controls.Add(this.buttonLogout);
             this.Controls.Add(this.tabControlAnggota);
             this.Controls.Add(this.labelHeader);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Name = "Form1";
             this.Text = "Form1";
             this.Load += new System.EventHandler(this.Form1_Load);
